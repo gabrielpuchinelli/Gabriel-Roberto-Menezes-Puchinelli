@@ -9,4 +9,4 @@
 - 🚗 Sistema de pedágio em Python  
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/gabriel-puchinelli-578aa13b9
+- LinkedIn: https://www.linkedin.com/in/gabrielpuchinelli
