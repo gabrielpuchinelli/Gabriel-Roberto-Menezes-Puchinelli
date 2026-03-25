@@ -1,2 +1,12 @@
-# Gabriel-Roberto-Menezes-Puchinelli
-Estudante de ADS focado em desenvolvimento de software.   Conhecimentos em HTML, CSS e Python.   Buscando evoluir constantemente e conquistar a primeira oportunidade na área de tecnologia.
+# Olá, eu sou o Gabriel 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Conhecimentos em HTML, CSS e Python  
+🚀 Em busca da primeira oportunidade como desenvolvedor  
+
+## 📌 Projetos
+- 🌌 Site de álbum de fotos Star Wars  
+- 🚗 Sistema de pedágio em Python  
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/gabriel-puchinelli-578aa13b9
